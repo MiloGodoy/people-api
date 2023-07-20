@@ -1,0 +1,34 @@
+﻿<Properties NuGet.AddPackagesDialog.IncludePrerelease="True" StartupConfiguration="{1CC7F3AA-4E9C-4C12-AF6D-7409778A38DD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="People.Api/People.Api.csproj">
+    <Files>
+      <File FileName="People.Api/Controllers/PeopleController.cs" Line="11" Column="34" />
+      <File FileName="People.Api/Startup.cs" Line="1" Column="1" />
+      <File FileName="People.Api/appsettings.json" Line="1" Column="1" />
+      <File FileName="People.Api/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="People.Api/Program.cs" Line="1" Column="1" />
+      <File FileName="People.Api/People.Api.csproj" Line="4" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PeopleApp" expanded="True">
+            <Node name="Api" expanded="True">
+              <Node name="People.Api" expanded="True">
+                <Node name="Dependencies" expanded="True">
+                  <Node name="PackageDependencies" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Api.People.Api PreferredExecutionTarget="/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.16" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="5.0.16" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+    <PackageReference Include="AWS.Toolkit.Telemetry.SDK" Version="1.0.136" />
+    <PackageReference Include="AWSSDK.S3" Version="3.7.107" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\People.Application\People.Application.csproj" />
+    <ProjectReference Include="..\People.Infrastructure\People.Infrastructure.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Database\PeopleDB.db">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

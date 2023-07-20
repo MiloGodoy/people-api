@@ -1,0 +1,286 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/milogodoy/Desktop/Bootcamp-Cloud/PeopleApp/People.Api/People.Api.csproj": {}
+  },
+  "projects": {
+    "/Users/milogodoy/Desktop/Bootcamp-Cloud/PeopleApp/People.Api/People.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/milogodoy/Desktop/Bootcamp-Cloud/PeopleApp/People.Api/People.Api.csproj",
+        "projectName": "People.Api",
+        "projectPath": "/Users/milogodoy/Desktop/Bootcamp-Cloud/PeopleApp/People.Api/People.Api.csproj",
+        "packagesPath": "/Users/milogodoy/.nuget/packages/",
+        "outputPath": "/Users/milogodoy/Desktop/Bootcamp-Cloud/PeopleApp/People.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/milogodoy/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/milogodoy/Desktop/Bootcamp-Cloud/PeopleApp/People.Application/People.Application.csproj": {
+                "projectPath": "/Users/milogodoy/Desktop/Bootcamp-Cloud/PeopleApp/People.Application/People.Application.csproj"
+              },
+              "/Users/milogodoy/Desktop/Bootcamp-Cloud/PeopleApp/People.Infrastructure/People.Infrastructure.csproj": {
+                "projectPath": "/Users/milogodoy/Desktop/Bootcamp-Cloud/PeopleApp/People.Infrastructure/People.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AWS.Toolkit.Telemetry.SDK": {
+              "target": "Package",
+              "version": "[1.0.136, )"
+            },
+            "AWSSDK.S3": {
+              "target": "Package",
+              "version": "[3.7.107, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.16, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.411/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/milogodoy/Desktop/Bootcamp-Cloud/PeopleApp/People.Application/People.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/milogodoy/Desktop/Bootcamp-Cloud/PeopleApp/People.Application/People.Application.csproj",
+        "projectName": "People.Application",
+        "projectPath": "/Users/milogodoy/Desktop/Bootcamp-Cloud/PeopleApp/People.Application/People.Application.csproj",
+        "packagesPath": "/Users/milogodoy/.nuget/packages/",
+        "outputPath": "/Users/milogodoy/Desktop/Bootcamp-Cloud/PeopleApp/People.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/milogodoy/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/milogodoy/Desktop/Bootcamp-Cloud/PeopleApp/People.Domain/People.Domain.csproj": {
+                "projectPath": "/Users/milogodoy/Desktop/Bootcamp-Cloud/PeopleApp/People.Domain/People.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AWS.Toolkit.Telemetry.SDK": {
+              "target": "Package",
+              "version": "[1.0.136, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.411/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/milogodoy/Desktop/Bootcamp-Cloud/PeopleApp/People.Domain/People.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/milogodoy/Desktop/Bootcamp-Cloud/PeopleApp/People.Domain/People.Domain.csproj",
+        "projectName": "People.Domain",
+        "projectPath": "/Users/milogodoy/Desktop/Bootcamp-Cloud/PeopleApp/People.Domain/People.Domain.csproj",
+        "packagesPath": "/Users/milogodoy/.nuget/packages/",
+        "outputPath": "/Users/milogodoy/Desktop/Bootcamp-Cloud/PeopleApp/People.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/milogodoy/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AWS.Toolkit.Telemetry.SDK": {
+              "target": "Package",
+              "version": "[1.0.136, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.411/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/milogodoy/Desktop/Bootcamp-Cloud/PeopleApp/People.Infrastructure/People.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/milogodoy/Desktop/Bootcamp-Cloud/PeopleApp/People.Infrastructure/People.Infrastructure.csproj",
+        "projectName": "People.Infrastructure",
+        "projectPath": "/Users/milogodoy/Desktop/Bootcamp-Cloud/PeopleApp/People.Infrastructure/People.Infrastructure.csproj",
+        "packagesPath": "/Users/milogodoy/.nuget/packages/",
+        "outputPath": "/Users/milogodoy/Desktop/Bootcamp-Cloud/PeopleApp/People.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/milogodoy/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/milogodoy/Desktop/Bootcamp-Cloud/PeopleApp/People.Application/People.Application.csproj": {
+                "projectPath": "/Users/milogodoy/Desktop/Bootcamp-Cloud/PeopleApp/People.Application/People.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AWS.Toolkit.Telemetry.SDK": {
+              "target": "Package",
+              "version": "[1.0.136, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.16, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.411/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

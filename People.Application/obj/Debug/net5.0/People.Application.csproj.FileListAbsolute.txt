@@ -1,0 +1,15 @@
+/Users/milogodoy/Desktop/Bootcamp-Cloud/PeopleApp/People.Application/bin/Debug/net5.0/People.Application.deps.json
+/Users/milogodoy/Desktop/Bootcamp-Cloud/PeopleApp/People.Application/bin/Debug/net5.0/People.Application.dll
+/Users/milogodoy/Desktop/Bootcamp-Cloud/PeopleApp/People.Application/bin/Debug/net5.0/People.Application.pdb
+/Users/milogodoy/Desktop/Bootcamp-Cloud/PeopleApp/People.Application/bin/Debug/net5.0/People.Domain.dll
+/Users/milogodoy/Desktop/Bootcamp-Cloud/PeopleApp/People.Application/bin/Debug/net5.0/People.Domain.pdb
+/Users/milogodoy/Desktop/Bootcamp-Cloud/PeopleApp/People.Application/obj/Debug/net5.0/People.Application.csproj.AssemblyReference.cache
+/Users/milogodoy/Desktop/Bootcamp-Cloud/PeopleApp/People.Application/obj/Debug/net5.0/People.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milogodoy/Desktop/Bootcamp-Cloud/PeopleApp/People.Application/obj/Debug/net5.0/People.Application.AssemblyInfoInputs.cache
+/Users/milogodoy/Desktop/Bootcamp-Cloud/PeopleApp/People.Application/obj/Debug/net5.0/People.Application.AssemblyInfo.cs
+/Users/milogodoy/Desktop/Bootcamp-Cloud/PeopleApp/People.Application/obj/Debug/net5.0/People.Application.csproj.CoreCompileInputs.cache
+/Users/milogodoy/Desktop/Bootcamp-Cloud/PeopleApp/People.Application/obj/Debug/net5.0/People.Application.csproj.CopyComplete
+/Users/milogodoy/Desktop/Bootcamp-Cloud/PeopleApp/People.Application/obj/Debug/net5.0/People.Application.dll
+/Users/milogodoy/Desktop/Bootcamp-Cloud/PeopleApp/People.Application/obj/Debug/net5.0/ref/People.Application.dll
+/Users/milogodoy/Desktop/Bootcamp-Cloud/PeopleApp/People.Application/obj/Debug/net5.0/People.Application.pdb
+/Users/milogodoy/Desktop/Bootcamp-Cloud/PeopleApp/People.Application/obj/Debug/net5.0/refint/People.Application.dll

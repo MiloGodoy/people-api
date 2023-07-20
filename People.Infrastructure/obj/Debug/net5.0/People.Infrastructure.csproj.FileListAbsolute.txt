@@ -1,0 +1,17 @@
+/Users/milogodoy/Desktop/Bootcamp-Cloud/PeopleApp/People.Infrastructure/bin/Debug/net5.0/People.Infrastructure.deps.json
+/Users/milogodoy/Desktop/Bootcamp-Cloud/PeopleApp/People.Infrastructure/bin/Debug/net5.0/People.Infrastructure.dll
+/Users/milogodoy/Desktop/Bootcamp-Cloud/PeopleApp/People.Infrastructure/bin/Debug/net5.0/People.Infrastructure.pdb
+/Users/milogodoy/Desktop/Bootcamp-Cloud/PeopleApp/People.Infrastructure/bin/Debug/net5.0/People.Application.dll
+/Users/milogodoy/Desktop/Bootcamp-Cloud/PeopleApp/People.Infrastructure/bin/Debug/net5.0/People.Domain.dll
+/Users/milogodoy/Desktop/Bootcamp-Cloud/PeopleApp/People.Infrastructure/bin/Debug/net5.0/People.Application.pdb
+/Users/milogodoy/Desktop/Bootcamp-Cloud/PeopleApp/People.Infrastructure/bin/Debug/net5.0/People.Domain.pdb
+/Users/milogodoy/Desktop/Bootcamp-Cloud/PeopleApp/People.Infrastructure/obj/Debug/net5.0/People.Infrastructure.csproj.AssemblyReference.cache
+/Users/milogodoy/Desktop/Bootcamp-Cloud/PeopleApp/People.Infrastructure/obj/Debug/net5.0/People.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milogodoy/Desktop/Bootcamp-Cloud/PeopleApp/People.Infrastructure/obj/Debug/net5.0/People.Infrastructure.AssemblyInfoInputs.cache
+/Users/milogodoy/Desktop/Bootcamp-Cloud/PeopleApp/People.Infrastructure/obj/Debug/net5.0/People.Infrastructure.AssemblyInfo.cs
+/Users/milogodoy/Desktop/Bootcamp-Cloud/PeopleApp/People.Infrastructure/obj/Debug/net5.0/People.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/milogodoy/Desktop/Bootcamp-Cloud/PeopleApp/People.Infrastructure/obj/Debug/net5.0/People.Infrastructure.csproj.CopyComplete
+/Users/milogodoy/Desktop/Bootcamp-Cloud/PeopleApp/People.Infrastructure/obj/Debug/net5.0/People.Infrastructure.dll
+/Users/milogodoy/Desktop/Bootcamp-Cloud/PeopleApp/People.Infrastructure/obj/Debug/net5.0/ref/People.Infrastructure.dll
+/Users/milogodoy/Desktop/Bootcamp-Cloud/PeopleApp/People.Infrastructure/obj/Debug/net5.0/People.Infrastructure.pdb
+/Users/milogodoy/Desktop/Bootcamp-Cloud/PeopleApp/People.Infrastructure/obj/Debug/net5.0/refint/People.Infrastructure.dll
